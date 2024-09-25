@@ -11,12 +11,44 @@ a{text-decoration: none;
 color: #e8df84;}
 a:hover{color: #927700;} 
 h2{color: rgb(218, 172, 80);}
-nav{
-    background: #2a2925;
-    border: 1px solid #333533
-}
+
 .pic1{
     width: 25%; 
     margin 2%;
     border-radius: 10px
+}
+article{
+    width: 700px;
+    background: #171717;
+    margin: 100px auto;
+}
+
+h1{
+    color:#222222;
+    font-size: 38px;
+    margin-top: 66px;
+    line-height: 45px;
+    background: #fbf361;
+}
+
+h1+hr+p{
+    margin-top: 8px;
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 32px;
+}
+
+h2{
+    margin-top: 50px;
+    color: #ffe96b;
+    font-size: 32px;
+    line-height: 36px;
+}
+
+h2+blockquote, h2+p{ margin-top: 8px;}
+
+blockquote{
+    font-style: italic;
+    margin-left: 100px;
+    margin-top: 20px;
 }

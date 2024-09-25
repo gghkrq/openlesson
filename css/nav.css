@@ -1,0 +1,17 @@
+nav{
+    background: #2a2925;
+    border: 1px solid #333533;
+    width: 300px;
+    position: fixed;
+    margin-top: 45px;
+    margin-left: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    opacity: .1;
+    transition: all 0.5s ease;
+}
+
+nav:hover{
+    opacity: 1;
+    transition: all 0.1s ease;
+}
