@@ -1,0 +1,22 @@
+body{background-color: #202020;}
+h1{color: #d6d6d6;font-size: 38px;}
+h2{color: #d6d6d6;}
+h3{color: #d6d6d6;}
+h4{color: #d6d6d6;}
+ol{color: #d6d6d6;}
+blockquote{color: #fffbe7;}
+p{color: #d6d6d6;}
+blockquote{ background-color: #333533;}
+a{text-decoration: none;
+color: #e8df84;}
+a:hover{color: #927700;} 
+h2{color: rgb(218, 172, 80);}
+nav{
+    background: #2a2925;
+    border: 1px solid #333533
+}
+.pic1{
+    width: 25%; 
+    margin 2%;
+    border-radius: 10px
+}
