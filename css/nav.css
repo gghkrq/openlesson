@@ -15,3 +15,7 @@ nav:hover{
     opacity: 1;
     transition: all 0.1s ease;
 }
+
+nav p{ 
+    margin-bottom: 3%;
+}

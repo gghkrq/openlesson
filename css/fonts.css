@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Spectral-MediumItalic";
+    src: url(../Spectral/Spectral-MediumItalic.ttf) format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Spectral-BoldItalic";
+    src: url(../Spectral/Spectral-BoldItalic.ttf) format("truetype");
+    font-weight: normal;
+    font-style: bold;
+}
+
+h1{
+    font-family: "Spectral-MediumItalic";
+}
+
+a{
+    font-family: "Spectral-BoldItalic";
+}
